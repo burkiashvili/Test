@@ -5,35 +5,39 @@
 
 
 # a=15
-# # b=4.7
-# # print(int(a+b))
+# b=4.7
+# print(int(a+b))
 
 # a=input("tqveni saxeli")
-# b="gamarjoba"
-# print(b,a)
-
-
+#
+#
+#
+# print(f'გამარჯობა {a}')
+#
 # a=input("tqveni gvari")
 # print(a.upper())
 
 # a="საქართველო"
-# print(a[2:-1])
+# print(a[2:])
 
 
 # a=input("tqveni saxeli?")
 # print(a[-1])
 
 
-a=input
-b=input
+# a=input("sheiyvane mnishvneloba")
+# print(a.swapcase())
 
 
 
-# a=15
-# b=10
-# print(a>b)
-# print(a<b)
-# print(a==b)
-# print(a!=b)
+
+
+
+a=15
+b=10
+print(a>b)
+print(a<b)
+print(a==b)
+print(a!=b)
 
 
