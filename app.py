@@ -25,19 +25,19 @@
 # print(a[-1])
 
 
-# a=input("sheiyvane mnishvneloba")
-# print(a.swapcase())
+a=input("sheiyvane mnishvneloba")
+print(a.swapcase())
 
 
 
 
 
 
-a=15
-b=10
-print(a>b)
-print(a<b)
-print(a==b)
-print(a!=b)
+# a=15
+# b=10
+# print(a>b)
+# print(a<b)
+# print(a==b)
+# print(a!=b)
 
 
